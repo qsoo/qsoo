@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm qsoo!
+
+### About Me
+Blog: [my Github Blog](qsoo.github.io)
+
+[![qsoo's github stats](https://github-readme-stats.vercel.app/api?username=qsoo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **qsoo/qsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
