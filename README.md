@@ -1,7 +1,7 @@
-
 <h3 align="center">Hi there 👋 I'm qsoo!</h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
@@ -21,6 +21,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=qsoo&show_icons=true&count_private=true"/></a>
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
+<br>
 
 <!--
 **qsoo/qsoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
