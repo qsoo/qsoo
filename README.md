@@ -19,10 +19,12 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=qsoo&show_icons=true&bg_color=30,97f784,f8d33d&title_color=fff&text_color=fff&icon_color=fff&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=qsoo&show_icons=true&bg_color=50,3dffb1,02a7ff&title_color=fff&text_color=fff&icon_color=fff&count_private=true"/></a>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=f8d33d&height=150&section=footer&animation=twinkling)
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=3dffb1&height=150&section=footer&animation=twinkling)
 <br>
 
 <!--
