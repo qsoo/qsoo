@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=qsoo&show_icons=true&count_private=true"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=qsoo&show_icons=true&bg_color=30,97f784,f8d33d&title_color=fff&text_color=fff&icon_color=fff&count_private=true"/></a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=twinkling)
